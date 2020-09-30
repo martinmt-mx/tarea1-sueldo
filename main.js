@@ -1,0 +1,7 @@
+console.log("rango sueldo   :: aumento")
+console.log("    0 a 1000   :: 15%")
+console.log(" 1001 a 1200   :: 12%")
+console.log(" 1201 a 1400   :: 10%")
+console.log(" 1401 a 1500   :: 8%")
+console.log(" mas de 1500   :: 5%")
+console.log("-------------------------")
