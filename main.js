@@ -5,7 +5,7 @@ console.log(" 1201 a 1400   :: 10%")
 console.log(" 1401 a 1500   :: 8%")
 console.log(" mas de 1500   :: 5%")
 console.log("-------------------------")
-var sueldo1 = 500
+var sueldo1 = 1482
 var sueldoTotal
 
 if (sueldo1>=0 && sueldo1<=1000){
